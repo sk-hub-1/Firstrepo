@@ -1,1 +1,2 @@
 my first repo
+docker swarm join --token SWMTKN-1-3p6q547mtg5lw6guc9xuow1unoewuglqpthe08vrnduw5cloh6-68jpx7zxyjmiyp3jk5jnlpafc 34.227.15.80:2377
